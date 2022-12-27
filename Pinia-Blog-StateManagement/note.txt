@@ -1,0 +1,12 @@
+1. npm init vue@latest
+2.vue router (yes)
+3.pinia state(yes)
+4. elsint for code qua(yes)
+5.prettier (yes)
+
+6=> vite.config.js 
+
+server: {
+    port: 8000,
+},
+
